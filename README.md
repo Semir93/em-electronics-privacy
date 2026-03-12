@@ -36,4 +36,4 @@ Magistralni put bb
 75270 Živinice  
 Bosnia and Herzegovina  
 
-Email: info@em-electronics.ba
+Email: mirza@em-electronics.ba
